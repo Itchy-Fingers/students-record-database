@@ -43,7 +43,7 @@ This database can be used for:
 ## Entity-Relationship Diagram (ERD)
 The Entity-Relationship Diagram (ERD) provides a visual representation of the database structure, showing the relationships between tables such as `students`, `courses`, `instructors`, `departments`, `enrollments`, and more.
 
-![ERD](./erd.jpg)
+![ERD](https://github.com/Itchy-Fingers/students-record-database/blob/main/ERD.jpg))
 
 
 Feel free to extend or adapt this project to suit your needs!
